@@ -1,10 +1,23 @@
-# Cargo plugin for [`ink!`](https://github.com/paritytech/ink) contracts
+<div align="center">
+    <img src="./.images/cargo-contract-color.svg" alt="ink!" height="136" />
+<h1 align="center">
+    CLI tooling which helps you set up and manage smart contracts written with
+    [ink!](https://github.com/paritytech/ink).
+</h1>
 
-[![GitHub license](https://img.shields.io/github/license/paritytech/cargo-contract)](LICENSE) 
 [![GitLab Status](https://gitlab.parity.io/parity/cargo-contract/badges/master/pipeline.svg)](https://gitlab.parity.io/parity/cargo-contract/pipelines)
 [![Latest Version](https://img.shields.io/crates/v/cargo-contract.svg)](https://crates.io/crates/cargo-contract)
+[![GitHub license](https://img.shields.io/github/license/paritytech/cargo-contract)](LICENSE) 
+[![Matrix][k1]][k2]
+[![Discord][l1]][l2]
 
-A CLI tool for helping setting up and managing WebAssembly smart contracts written with ink!.
+[k1]: https://img.shields.io/badge/matrix-chat-brightgreen.svg?style=flat
+[k2]: https://riot.im/app/#/room/#ink:matrix.parity.io
+
+> <img src="./.images/ink-squid.svg" alt="squink, the ink! mascot" style="vertical-align: middle" align="left" height="60" />ink! is an [eDSL](https://wiki.haskell.org/Embedded_domain_specific_language) to write WebAssembly based smart contracts using the Rust programming language. The compilation target are blockchains built on the [Substrate](https://github.com/paritytech/substrate) framework.
+
+<br/>
+
 
 ## Installation
 
@@ -25,7 +38,7 @@ After you've installed the package execute `cargo install --force cargo-contract
 ## Usage
 
 ```
-cargo-contract 0.11.0
+cargo-contract 0.11.1
 Utilities to develop Wasm smart contracts
 
 USAGE:
