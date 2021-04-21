@@ -1,9 +1,5 @@
 <div align="center">
     <img src="./.images/cargo-contract-color.svg" alt="ink!" height="300" />
-<h1 align="center">
-    CLI tooling which helps you set up and manage smart contracts written with
-    [ink!](https://github.com/paritytech/ink).
-</h1>
 
 [![GitLab Status](https://gitlab.parity.io/parity/cargo-contract/badges/master/pipeline.svg)](https://gitlab.parity.io/parity/cargo-contract/pipelines)
 [![Latest Version](https://img.shields.io/crates/v/cargo-contract.svg)](https://crates.io/crates/cargo-contract)
@@ -16,7 +12,11 @@
 [l1]: https://img.shields.io/discord/722223075629727774?style=flat-square&label=discord
 [l2]: https://discord.gg/ztCASQE
 
-> <img src="./.images/ink-squid.svg" alt="squink, the ink! mascot" style="vertical-align: middle" align="left" height="60" />ink! is an [eDSL](https://wiki.haskell.org/Embedded_domain_specific_language) to write WebAssembly based smart contracts using the Rust programming language. The compilation target are blockchains built on the [Substrate](https://github.com/paritytech/substrate) framework.
+<p align="center">
+
+> <img src="./.images/ink-squid.svg" alt="squink, the ink! mascot" style="vertical-align: middle" align="left" height="60" />`cargo-contract` is a plugin for `cargo`, which helps you develop smart contracts written in ink!. ink! is an [eDSL](https://wiki.haskell.org/Embedded_domain_specific_language) to write smart contracts in Rust for blockchains built on the [Substrate](https://github.com/paritytech/substrate) framework.
+</p>
+</div>
 
 <br/>
 
