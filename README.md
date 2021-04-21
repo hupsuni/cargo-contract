@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./.images/cargo-contract-color.svg" style="clip: rect(0px, 0px, 1280px, 300px);" alt="ink!" height="300" />
+    <img src="./.images/cargo-contract-color-clipped.svg" alt="ink!" height="300" />
 
 [![GitLab Status](https://gitlab.parity.io/parity/cargo-contract/badges/master/pipeline.svg)](https://gitlab.parity.io/parity/cargo-contract/pipelines)
 [![Latest Version](https://img.shields.io/crates/v/cargo-contract.svg)](https://crates.io/crates/cargo-contract)
@@ -13,7 +13,6 @@
 [l2]: https://discord.gg/ztCASQE
 
 <p align="center">
-
 > <img src="./.images/ink-squid.svg" alt="squink, the ink! mascot" style="vertical-align: middle" align="left" height="60" />`cargo-contract` helps you develop smart contracts in Parity's <a href="https://github.com/paritytech/ink">ink!</a>. The ink! [eDSL](https://wiki.haskell.org/Embedded_domain_specific_language) allows you to write smart contracts in Rust for blockchains built on the [Substrate](https://github.com/paritytech/substrate) framework.
 </p>
 </div>
