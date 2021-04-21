@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./.images/cargo-contract-color-black-bg.svg" alt="ink!" height="200" />
+    <img src="./.images/cargo-contract-color.svg" alt="ink!" height="300" />
 <h1 align="center">
     CLI tooling which helps you set up and manage smart contracts written with
     [ink!](https://github.com/paritytech/ink).
@@ -13,6 +13,8 @@
 
 [k1]: https://img.shields.io/badge/matrix-chat-brightgreen.svg?style=flat
 [k2]: https://riot.im/app/#/room/#ink:matrix.parity.io
+[l1]: https://img.shields.io/discord/722223075629727774?style=flat-square&label=discord
+[l2]: https://discord.gg/ztCASQE
 
 > <img src="./.images/ink-squid.svg" alt="squink, the ink! mascot" style="vertical-align: middle" align="left" height="60" />ink! is an [eDSL](https://wiki.haskell.org/Embedded_domain_specific_language) to write WebAssembly based smart contracts using the Rust programming language. The compilation target are blockchains built on the [Substrate](https://github.com/paritytech/substrate) framework.
 
