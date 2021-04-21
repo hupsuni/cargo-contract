@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./.images/cargo-contract-color.svg" alt="ink!" height="136" />
+    <img src="./.images/cargo-contract-color-black-bg.svg" alt="ink!" height="200" />
 <h1 align="center">
     CLI tooling which helps you set up and manage smart contracts written with
     [ink!](https://github.com/paritytech/ink).
